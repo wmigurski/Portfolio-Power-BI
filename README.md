@@ -1,4 +1,4 @@
-# Portfolio project in Power BI - 
+# Portfolio project in Power BI
 
 
 [Download PDF Dashboard](https://github.com/wmigurski/Portfolio-Power-BI/files/11286899/Portfolio.Wojtek.Migurski.pdf)
