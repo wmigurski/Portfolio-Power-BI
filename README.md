@@ -3,7 +3,7 @@
 
 [Download PDF Dashboard](https://github.com/wmigurski/Portfolio-Power-BI/files/11286899/Portfolio.Wojtek.Migurski.pdf)
 
-Also PBI project available in this repository.
+Also PBIX project available in this repository.
 
 
 Data source: https://data.mendeley.com/datasets/8gx2fvg2k6/5  
